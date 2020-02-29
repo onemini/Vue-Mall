@@ -4,10 +4,10 @@ Getting started
 # clone the project
 git clone https://github.com/onemini/Vue-Mall.git
 
-// install dependencies
+# install dependencies
 npm install
 
-// develop
+# develop
 npm run dev
-Build
+# Build
 npm run build
